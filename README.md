@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anukool</h1>
 <h3 align="center">Programmer | Developer | Learner | Traveller</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anukool1729" alt="anukool1729" /></a> </p>
-
 - 👨‍💻 You can also check out my portfolio at [https://github.com/Anukool1729](https://github.com/Anukool1729)
 
 - 📫 How to reach me **lcs2020012@iiitl.ac.in**
